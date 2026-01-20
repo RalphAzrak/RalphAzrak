@@ -12,8 +12,7 @@
 
 ### Projects
 - **Darkroom (MCHacks)**  
-  Backend system for a photo upload and processing application.  
-  Designed the database schema, implemented API routes, and integrated MongoDB with the frontend.
+  Full-Stack system for a photo upload and processing application.Designed the database schema, implemented API routes, and integrated MongoDB with the frontend.
 
 - **Seed-Planting Robot (RoboHacks – Winner)** 🌱  
   Arduino-based robot that plants seeds based on map validation and sensor input.  
